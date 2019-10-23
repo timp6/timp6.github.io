@@ -12,7 +12,7 @@ action. Enjoy it :)
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
-(* = not included)
+(* = not included) e
 
 AJ
 aj@lkn.io | @ajlkn
