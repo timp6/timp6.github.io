@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #dc51b9;
+		color: #f05dcb;
 		font-size: 3.5em;
 	}
 
@@ -2188,8 +2188,15 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			/*border-radius: 100%;*/
 			overflow: hidden;
+
+			width:128px;
+    	margin: 3px;
+  	  border:3px solid #fd275a;
+  	  border-radius: 500px;
+  	  -webkit-border-radius: 500px;
+  	  -moz-border-radius: 500px;
 		}
 
 			.image.avatar img {
@@ -2202,6 +2209,8 @@ input, select, textarea {
 			display: block;
 			height: 15em;
 			border-radius: 0;
+
+			border-bottom: 5px solid #fd275ab5;
 		}
 
 			.image.main img {
@@ -2700,7 +2709,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #f779d7;
+		background: #f05dcb ;
 		color: #fff;
 		height: 100%;
 		overflow-y: auto;
@@ -2789,7 +2798,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #d063b5;
+					border-top: solid 2px #fd275a80;
 					display: block;
 					padding: 0;
 				}
