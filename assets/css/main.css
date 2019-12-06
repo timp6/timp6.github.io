@@ -2727,7 +2727,7 @@ input, select, textarea {
 		background: #f05dcb ;
 		color: #fff;
 		height: 100%;
-		overflow-y: auto;
+		overflow-y: inherit;
 		position: fixed;
 		text-align: center;
 		top: 0;
@@ -2813,7 +2813,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #fd275a80;
+					border-top: solid 2px #ffe2e9;
 					display: block;
 					padding: 0;
 				}
